@@ -1,4 +1,5 @@
-# BMI Calculator using Python and Tkinter
+# BMI Calculator
+![Screenshot (2)](https://github.com/Jon3sjns/BMI_Calculator/assets/45759837/fecf5f5f-f393-4b85-bed8-1b0677540c2c)
 
 This is a simple project implementing a BMI (Body Mass Index) calculator using Python and the Tkinter library for the user interface.
 
