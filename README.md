@@ -23,7 +23,7 @@ A BMI calculator is a tool used to calculate an individual's body mass index. Th
 ## Running the .exe file
 
 1. Navigate to the `DIST_BMI_Calculator` folder.
-2. Find the executable file (BMI_Calculator.exe).
+2. Find the executable file (`BMI_Calculator.exe`).
 3. Double-click the executable file to run the application. If there is a security warning, you may need to approve running the application first.
 
 ## Requirements
