@@ -68,7 +68,7 @@ class App:
             bmi = self.formula(weight, height)
             res_bmi = f"BMI: {bmi[0]:.2f}"
             self.result_name.config(text = "Name: " + self.name_entry.get())
-            self.result_bmi.config(text = "BMI: " + res_bmi)
+            self.result_bmi.config(text = res_bmi)
             self.result_category.config(text = "Category: " + bmi[1])
         except ValueError:
             self.result_name.config(text = "Input Error, check your input!")
